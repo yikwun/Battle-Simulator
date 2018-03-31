@@ -1,0 +1,17 @@
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\bin\Release\Battle Simulator.exe
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\bin\Release\Battle Simulator.pdb
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\ResolveAssemblyReference.cache
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\Battle Simulator.csproj.GenerateResource.Cache
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\Battle Simulator.exe
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\Battle Simulator.pdb
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\Battle Simulator.exe
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\Battle Simulator.pdb
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\bin\Release\Battle Simulator.exe
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\bin\Release\Battle Simulator.pdb
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\ResolveAssemblyReference.cache
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\Battle Simulator.csproj.GenerateResource.Cache
+E:\Grade 11 computer\Assignment 1\Battle Simulator\Battle Simulator\obj\Release\WindowsForm.Form2.resources
